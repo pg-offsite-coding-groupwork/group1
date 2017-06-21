@@ -26,14 +26,20 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <div class="list">
         <ol>
             <li class="list0">
+                <span>The image size must be within 2Mb.</span>
+            </li>
+            <li class="list1">
+                <span>Ensure the image only contains humanbeings</span>
+            </li>
+            <li class="list2">
                 <span>Pull hair back and if possible remove makeup and glasses</span>
             </li>
 
-            <li class="list1">
+            <li class="list3">
                 <span>Use the front-facing camera and minimize shadows</span>
             </li>
 
-            <li class="list2">
+            <li class="list4">
                 <span>Ensure your entire face is centered with a neutral expression</span>
             </li>
         </ol>
