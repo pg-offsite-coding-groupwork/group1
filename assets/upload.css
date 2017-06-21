@@ -48,6 +48,18 @@
     color: #7f7550 !important;
 }
 
+.list ol li.list3:before {
+    content: "4";
+    font-size: 5rem;
+    color: #7f7550 !important;
+}
+
+.list ol li.list4:before {
+    content: "5";
+    font-size: 5rem;
+    color: #7f7550 !important;
+}
+
 button.upload {
     width: 75%;
     border: .07rem solid #7f7550;
